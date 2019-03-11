@@ -11,6 +11,6 @@ Install gem:
 ```gem install 'ae_easy-text'```
 
 Require gem:
-```require 'ae_easy-text'```
+```require 'ae_easy/text'```
 
 Documentation can be found [here](http://rubydoc.org/gems/ae_easy-text/frames).
