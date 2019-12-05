@@ -5,12 +5,16 @@
 # AeEasy text module
 ## Description
 
-AeEasy text is part of AeEasy gem collection. It provides multiple text parsing helpers to ease common text parsing user cases.
+AeEasy text is part of AeEasy gem collection and an alias to [dh_easy-text](https://github.com/DataHenOfficial/dh_easy-text/) gem. It provides multiple text parsing helpers to ease common text parsing user cases.
 
 Install gem:
-```gem install 'ae_easy-text'```
+```ruby
+gem install 'ae_easy-text'
+```
 
 Require gem:
-```require 'ae_easy/text'```
+```ruby
+require 'ae_easy/text'
+```
 
-Documentation can be found [here](http://rubydoc.org/gems/ae_easy-text/frames).
+See [dh_easy-text](https://github.com/DataHenOfficial/dh_easy-text/) gem for documentation.
